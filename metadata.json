@@ -1,0 +1,6 @@
+{
+  "name": "Thai Ham Log",
+  "description": "Radio operator Thai amateur radio logging application with automatic callsign lookup, offline database, and QSO logbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
